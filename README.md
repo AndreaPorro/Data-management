@@ -96,5 +96,3 @@ The analysis is structured around four research questions, each addressing a dif
 *Developed by Andrea Porro, Ilaria Cesaratto, and Chiara Mezzanzanica.*
 
 *Warhammer 40,000 is a trademark of Games Workshop. This is an independent academic project, not affiliated with or endorsed by Games Workshop.*
-
-
